@@ -1,0 +1,34 @@
+#ice{
+    background: #343d34;
+    color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    margin: 30px;
+}
+p{
+    color: red;
+}
+.list{
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+#ice2{
+    background: rgb(60, 60, 140);
+    color: #f1f1f1;
+    width: 40%;
+    margin: 20px;
+    padding: 10px;
+}
+.ape{
+    border: 300px;
+    border-radius: 150px;
+    width: 30%;
+    height: 25%;
+    float: left;
+    margin-inline: 10px;
+}
+.me{
+    color: olivedrab;
+}
